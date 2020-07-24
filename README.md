@@ -12,34 +12,57 @@ A linguagem utilizada foi Java®, visto que é a mais utilizada no curso, facili
 tela e função do software, facilitando assim o futuro manuseio por qualquer usuário. 
 
 ### Visão Geral
+
 A tela é composta pelos menus:
 
  1. Arquivo
+ 
  Sair
  
  2. Computação Gráfica
+ 
 ● Conversão
+
 	○ Reta
+	
 	○ Elipse
+	
 	○ Circunferência
+	
 ● Gráfico
+
 ○ Barra
+
 ○ Coluna
+
 ○ Pizza
+
 ● Animação
+
 ● Recorte
+
 ● Transformações
+
 ○ 2D
 
 3. Processamento de Imagens
+
 ● Filtros
+
 ● Operações Imagens
+
 ○ Aritmética
+
 ○ Lógica
+
 ● Gato Arnold
+
 ● Transformações Imagens
+
 ● Histograma
 
 4. Ajuda
+
 ● Instruções
+
 ● Créditos
